@@ -1,0 +1,1 @@
+insert into skill(id,name,description,level,user_id) values(101L, 'singing', 'singing of classical songs', 'intermediate', 1L);
