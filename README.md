@@ -1,15 +1,15 @@
 # Training
 
-##Stage 3
+## Stage 3
 
-###Day 1(06/05/2021)
+### Day 1(06/05/2021)
+1) Spring Boot CRUD operations
+2) UserDemo (Example)
 
-UserDemo
-
-###Day 2(07/05/2021)
+### Day 2(07/05/2021)
 
 1) Validation
 2) Exception Handling
-SkillService
+3) SkillService (Practice)
 
 
