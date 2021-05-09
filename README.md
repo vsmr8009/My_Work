@@ -10,6 +10,6 @@
 
 1) Validation
 2) Exception Handling
-#### SkillService (Practice)
+#### SkillService
 
 
