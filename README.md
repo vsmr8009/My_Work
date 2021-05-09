@@ -3,7 +3,7 @@
 ## Stage 3
 
 ### Day 1(06/05/2021)
-1) Spring Boot REST api CRUD operations
+1) Spring Boot REST API CRUD operations
 2) UserDemo (example)
 
 ### Day 2(07/05/2021)
