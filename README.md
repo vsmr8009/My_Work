@@ -12,4 +12,10 @@
 2) Exception Handling
 #### SkillService
 
+### Day 3(08/05/2021)
+
+1) jQuery introduction
+#### Demo (example)
+#### Shakespear (practise)
+
 
