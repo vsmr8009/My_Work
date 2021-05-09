@@ -4,7 +4,7 @@
 
 ### Day 1(06/05/2021)
 1) Spring Boot REST api CRUD operations
-#### UserDemo (Example)
+#### UserDemo
 
 ### Day 2(07/05/2021)
 
