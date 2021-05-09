@@ -4,18 +4,18 @@
 
 ### Day 1(06/05/2021)
 1) Spring Boot REST api CRUD operations
-#### UserDemo
+2) UserDemo (example)
 
 ### Day 2(07/05/2021)
 
 1) Validation
 2) Exception Handling
-#### SkillService
+3) SkillService (practise)
 
 ### Day 3(08/05/2021)
 
 1) jQuery introduction
-#### Demo (example)
-#### Shakespear (practise)
+2) Demo (example)
+3) Shakespear (practise)
 
 
