@@ -20,4 +20,9 @@
 4) StyleSwitcher (practise)
 5) Flatland
 
+### Day 4(10/05/2021)
+
+1) BootStrap 4 introduction
+2) jQuery handson
+3) BootStrap video watching and Sandbox handson
 
