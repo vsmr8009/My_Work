@@ -27,3 +27,7 @@
 3) BootStrap video watching
 4) BootStrap Handson Sandbox Chapter-2
 
+### Day 5(11/05/2021)
+
+1) BootStrap continuation
+2) BootStrap Handson Sandbox Chapter-3
