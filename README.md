@@ -33,3 +33,11 @@
 2) BootStrap Handson Sandbox Chapter-3
 3) BootStrap Handson Sandbox Chapter-4
 4) BootStrap Handson Sandbox Chapter-5
+
+### Day 6(12/05/2021)
+
+1) Node js introduction
+2) Node js environment setup
+3) Angular introduction
+4) Angular setup
+5) Angular sample project creation
