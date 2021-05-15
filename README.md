@@ -41,3 +41,9 @@
 3) Angular introduction
 4) Angular setup
 5) Angular sample project creation
+
+### Day 7(14/05/2021)
+
+1) TypeScript introduction {variable(local, global, class) initialization, loops}
+2) TypeScript examples practise
+3) Angular project component creation
