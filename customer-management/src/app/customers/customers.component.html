@@ -1,0 +1,23 @@
+<p>Customers Details</p>
+<hr>
+<app-customer></app-customer>
+<div class="mt-3">
+    <table class="table table-striped">
+        <thead class="bg bg-primary">
+            <tr>
+                <th>Id:</th>
+                <th>Name:</th>
+                <th>Address:</th>
+                <th>Company:</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let customer of customers">
+                <td>{{ customer.id }}</td>
+                <td>{{ customer.name }}</td>
+                <td>{{ customer.address }}</td>
+                <td>{{ customer.phone }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
