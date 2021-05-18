@@ -47,3 +47,16 @@
 1) TypeScript introduction {variable(local, global, class) initialization, loops}
 2) TypeScript examples practise
 3) Angular project component creation
+
+### Day 8(15/05/2021)
+
+1) Data Binding 
+2) Directives
+
+### Day 9(17/05/2021)
+
+1) Angular Forms Introduction
+2) Reactive Form practise
+3) Component Communication
+4) Data sharing @Input and @Output decorators
+5) Data sharing using Service class
