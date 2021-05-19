@@ -64,8 +64,7 @@
 
 ### Day 10(18/05/2021)
 
-1) Getting details from server
-2) Created json server and a json file
-3) Getting all customers from server
-4) Adding customer to server
-5) Routing and Navigation
+1) Created json server and a json file
+2) Getting all customers from server
+3) Adding customer to server
+4) Routing and Navigation
