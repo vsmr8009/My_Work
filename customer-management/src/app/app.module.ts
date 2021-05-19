@@ -8,13 +8,15 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AddCustomerComponent } from './customers/add-customer/add-customer.component';
 import { CustomerService } from './service/customer.service';
 import { AppRoutingModule } from './app-routing.module';
+import { UpdateCustomerComponent } from './customers/update-customer/update-customer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CustomersComponent,
     CustomerComponent,
-    AddCustomerComponent
+    AddCustomerComponent,
+    UpdateCustomerComponent
   ],
   imports: [
     BrowserModule,

@@ -18,7 +18,7 @@ export class AddCustomerComponent implements OnInit {
 
   ngOnInit(): void {
     this.signupForm = new FormGroup({
-      id: new FormControl(null, Validators.required),
+      //id: new FormControl(null, Validators.required),
       name: new FormControl(null, Validators.required),
       address: new FormControl(null, Validators.required),
       phone: new FormControl(null, Validators.required)

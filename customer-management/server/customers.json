@@ -7,12 +7,6 @@
       "phone": 9876543219
     },
     {
-      "id": 2,
-      "name": "sasi",
-      "address": "jmd",
-      "phone": 9876543219
-    },
-    {
       "id": 3,
       "name": "sekhar",
       "address": "kdp",
@@ -21,7 +15,7 @@
     {
       "id": 4,
       "name": "kesava",
-      "address": "tpt",
+      "address": "kurnool",
       "phone": 9877543569
     },
     {
@@ -37,10 +31,10 @@
       "phone": 9809876543
     },
     {
-      "id": 7,
-      "name": "Sasidhar",
-      "address": "npt",
-      "phone": 9567432108
+      "name": "harish",
+      "address": "nawabpet",
+      "phone": 7890654321,
+      "id": 7
     }
   ]
 }
