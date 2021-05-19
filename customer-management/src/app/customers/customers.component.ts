@@ -1,4 +1,3 @@
-import { CUSTOMERS } from './../customer-mock';
 
 import { Component, OnInit } from '@angular/core';
 import { Customer } from '../Model/Customer';
@@ -14,7 +13,9 @@ export class CustomersComponent implements OnInit{
 
   constructor(private customerService: CustomerService){}
    ngOnInit(): void{
-     this.customers = this.customerService.getAllCustomers()
+      this.customerService.getAllCustomers().subscribe(data =>{
+        this.customers = data;
+      })
 
    }
   

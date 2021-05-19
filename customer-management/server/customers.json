@@ -1,0 +1,46 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "siva",
+      "address": "npt",
+      "phone": 9876543219
+    },
+    {
+      "id": 2,
+      "name": "sasi",
+      "address": "jmd",
+      "phone": 9876543219
+    },
+    {
+      "id": 3,
+      "name": "sekhar",
+      "address": "kdp",
+      "phone": 9877543219
+    },
+    {
+      "id": 4,
+      "name": "kesava",
+      "address": "tpt",
+      "phone": 9877543569
+    },
+    {
+      "id": 5,
+      "name": "prasad",
+      "address": "jmd",
+      "phone": 9087654321
+    },
+    {
+      "id": 6,
+      "name": "pavan",
+      "address": "nandyal",
+      "phone": 9809876543
+    },
+    {
+      "id": 7,
+      "name": "Sasidhar",
+      "address": "npt",
+      "phone": 9567432108
+    }
+  ]
+}
