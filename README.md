@@ -68,3 +68,9 @@
 2) Getting all customers from server
 3) Adding customer to server
 4) Routing and Navigation
+
+### Day 11(19/05/2021)
+
+1) getCustomerById using local storage
+2) Update Customer details
+3) Delete Customer
