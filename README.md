@@ -74,3 +74,8 @@
 1) getCustomerById using local storage
 2) Update Customer details
 3) Delete Customer
+
+### Day 12(20/05/2021)
+
+1) Connected frontend of customer-management with backend
+2) Microservices introduction
