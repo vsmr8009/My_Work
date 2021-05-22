@@ -79,3 +79,8 @@
 
 1) Connected frontend of customer-management with backend
 2) Microservices introduction
+
+### Day 13(21/05/2021)
+
+1) Angular handson (game-handson)
+2) Watching Udemy videos on Microservices
