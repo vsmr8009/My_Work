@@ -84,3 +84,8 @@
 
 1) Angular handson (game-handson)
 2) Watching Udemy videos on Microservices
+
+### Day 14(22/05/2021)
+
+1) Watching Udemy videos on Microservices
+2) Microservices limits-service, currency-conversion-service, currency-exchange-service creation  
