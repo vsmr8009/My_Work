@@ -89,3 +89,9 @@
 
 1) Watching Udemy videos on Microservices
 2) Microservices limits-service, currency-conversion-service, currency-exchange-service creation  
+
+### Day 15(23/05/2021)
+### Day 16(24/05/2021)
+
+1) Watching Udemy videos on Microservices
+2) Microservices limits-service, currency-conversion-service, currency-exchange-service, eureka naming server, api gateway creation   
